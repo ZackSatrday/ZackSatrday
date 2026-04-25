@@ -85,19 +85,20 @@ I'm a third-year AI/ML student who loves building end-to-end applications — fr
 | 🌱 Green Skills Intern | AICTE × Salesforce India × 1M1B | Jul – Sep 2025 |
 | 🧪 AI Foundations Intern | Microsoft × Edunet × AICTE | Apr – May 2025 |
 
-**Capstone Project — AquaSaviour:** Conceptual AI + IoT multi-agent system to monitor water quality in rural areas and provide real-time safety alerts.
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZackSatrday&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackSatrday&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ZackSatrday&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackSatrday&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 

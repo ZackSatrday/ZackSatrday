@@ -67,9 +67,10 @@ I'm a third-year AI/ML student who loves building end-to-end applications — fr
 > **Stack:** React · Node.js · MongoDB  
 > Built during the AICTE × Salesforce Green Skills Internship
 
-### 🧠 [EduVidwan](https://github.com/ZackSatrday/eduvidwaan-newV)
-> EdTech platform for students preparing for entrance exams — with an AI-powered chatbot for instant query resolution.  
-> **Stack:** React · JavaScript
+### 📺 [Playce — YouTube Playlist Tracker](https://github.com/ZackSatrday/playce)
+> Track your progress across YouTube playlists — mark videos as watched, resume where you left off, and manage your learning queue.  
+> **Stack:** Next.js 14 · TypeScript · Tailwind CSS · Supabase · YouTube IFrame API · YouTube Data API v3  
+> Features: Auth, per-video progress tracking, playlist syncing, responsive UI
 
 ### 💚 [Mental Health Support App](https://github.com/ZackSatrday/Mental-health-app)
 > Digital platform for student mental wellness with AI-guided assistance, professional counseling, and peer community connections.  
